@@ -1,6 +1,7 @@
 # steps-function
 # typescript
 
-#commands
+# commands
 npm i
+
 esrua index.ts connectivity
